@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+}
+h2 {
+    color: red;
+}
+li {
+    font-size: 50px;
+    color: rgb(160, 149, 26);
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+a {
+    text-decoration: none;
+}

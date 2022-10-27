@@ -1,0 +1,30 @@
+
+.main-block {
+    width: 500px;
+    height: 100px;
+    border: 1px solid black;
+    float: left;
+}
+.middle-block {
+    width: 50%;
+    height: 100px;
+    /* border: 1px solid blue; */
+    float: left;
+}
+.footer-block {
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+
+.orange {
+    background: orange;
+}
+
+.green {
+    background: green;
+}
+
+.blue {
+    background: blue;
+}
